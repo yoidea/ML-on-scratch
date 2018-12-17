@@ -1,0 +1,1 @@
+{"extensionName": "Extension Test", "extensionPort": 5678, "blockSpecs": [[" ", "set message %s", "set_message", null], ["r", "get message", "get_message"]], "menus": {}}
