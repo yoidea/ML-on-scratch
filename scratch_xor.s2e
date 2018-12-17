@@ -1,1 +1,1 @@
-{"extensionName": "XOR", "extensionPort": 5678, "blockSpecs": [[" ", "start training", "train"], ["b", "is busy", "is_busy"], ["r", "get score", "get_score"]], "menus": {}}
+{"extensionName": "XOR", "extensionPort": 5678, "blockSpecs": [[" ", "start training", "train"], [" ", "set x1 %n", "set_x1", 0], [" ", "set x2 %n", "set_x2", 0], ["b", "is busy", "is_busy"], ["r", "get score", "get_score"], ["r", "predict", "predict"]], "menus": {}}
