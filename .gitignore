@@ -1,6 +1,9 @@
 # MacOS
 .DS_Store
 
+# binary
+*.sb2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
